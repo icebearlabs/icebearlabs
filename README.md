@@ -4,5 +4,5 @@ Read more about us on [https://www.icebearlabs.com](https://www.icebearlabs.com)
 
 Awesome products: 
 
-[https://www.tradingcardtrends.com](Trading Card Trends)
-[https://www.allaboutanalog.com](All About Analog)
+[Trading Card Trends](https://www.tradingcardtrends.com)
+[All About Analog](https://www.allaboutanalog.com)
